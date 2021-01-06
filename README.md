@@ -1,6 +1,6 @@
 # README
 
-Rails版本：6.1ruby .0
+Rails版本：6.1.0
 Ruby版本：2.7.0p0
 
 ---
